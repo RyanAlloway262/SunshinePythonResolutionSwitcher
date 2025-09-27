@@ -28,10 +28,10 @@ Python resolution switcher for Windows 11 machines when using sunshine to remote
 
 # Configuring script to automatically start with Windows 11
 1. Open task manager and on the right hand panel click on startup apps.
-   <img width="236" height="390" alt="image" src="https://github.com/user-attachments/assets/2ed4c504-3efc-4587-80a2-6181adf9e025" />
+   - <img width="236" height="390" alt="image" src="https://github.com/user-attachments/assets/2ed4c504-3efc-4587-80a2-6181adf9e025" />
 
 2. Click on the run new task button on the top of the page.
-   <img width="135" height="44" alt="image" src="https://github.com/user-attachments/assets/72f2171e-3068-4336-a48c-4e61e8d7937c" />
+   - <img width="135" height="44" alt="image" src="https://github.com/user-attachments/assets/72f2171e-3068-4336-a48c-4e61e8d7937c" />
 
 3. The Create new task window will open, press browse and select the SunshinePythonResolutionSwitcher.exe
 4. Thats it! Now the script will now be a task that runs on startup. 
