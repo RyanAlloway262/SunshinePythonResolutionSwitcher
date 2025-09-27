@@ -1,8 +1,10 @@
+# VirusTotal Scan (exe file)
+https://www.virustotal.com/gui/file/f89fac7d5016134c6af9fbc315a7d579cb42713facd27a6409c9a9c9f02c1347?nocache=1
+
 # SunshinePythonResolutionSwitcher
 Python resolution switcher for Windows 11 machines when using sunshine to remote control pc. 
 
 # Installation - using packaged EXE file
-
  1. Download the source code via zip.
  2. Open the dist folder in file explorer.
  3. Edit the config.json using notedpad.
@@ -12,6 +14,7 @@ Python resolution switcher for Windows 11 machines when using sunshine to remote
     set a resolution and refreshrate that your system has been configured for before. Any configuration that is not visible in the windows display settings is not a valid option. You may need to use a custom resolution tool to add or delete valid resolution values.
 
 # Building from Scratch
+Including this since I generally do not like installing random executables. 
 1. Download the sorce code via zip file or cloning repo etc.
 2. Extract the contents of the ziped folder to a location of your choice.
 3. Use the following command to install python packages to build the python program from scratch. (Requires python3 to be installed) 
